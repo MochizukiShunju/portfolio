@@ -16,11 +16,11 @@
 <部品が必要になった際、その部品の在庫が何個あってどこにあるか瞬時に検索できる。また使用した部品を誰が注文したか把握することができる。>
 
 ## 設計書
-ER図
+- ER図
 <https://app.diagrams.net/#G127c_7X7-hhwKzQvGdrzFC5hRZ783JhIB>
-テーブル設計書
+- テーブル設計書
 <https://docs.google.com/spreadsheets/d/11BCkda44UxqFY5PN0bEzyQTzdqutp-sxae_Gf4r5fMQ/edit#gid=1749327849>
-アプリケーション詳細設計書
+- アプリケーション詳細設計書
 <https://docs.google.com/spreadsheets/d/19D65DAjry2MZwwiuk5s4ajoUFZA8-iRjv8pqQhbfq94/edit#gid=0>
 
 ## チャレンジ要素一覧
